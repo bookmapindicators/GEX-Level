@@ -1,8 +1,6 @@
-Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Diameter,Draw Note Price Horizontal Line
-MNQU6.CME@RITHMIC,28333.17,GEX,#FFFFFF,#E61E1E,left,,
-MNQU6.CME@RITHMIC,28705.43,GEX,#FFFFFF,#E61E1E,left,,
-MNQU6.CME@RITHMIC,28788.16,GEX,#FFFFFF,#E61E1E,left,,
-MNQU6.CME@RITHMIC,29656.77,GEX,#FFFFFF,#0078FF,left,,
-MNQU6.CME@RITHMIC,28746.80,GEX,#FFFFFF,#00E632,left,,
-MNQU6.CME@RITHMIC,28953.61,GEX,#FFFFFF,#00E632,left,,
-MNQU6.CME@RITHMIC,28539.99,GEX,#FFFFFF,#00E632,left,,
+Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Diameter,Draw Note Price Horizontal Line,Line Style,Draw
+MNQU6.CME@RITHMIC,30195.00,GEX,#FFFFFF,#00E632,left,,true,solid,yes
+MNQU6.CME@RITHMIC,29905.00,GEX,#FFFFFF,#00E632,left,,true,solid,yes
+MNQU6.CME@RITHMIC,29370.00,GEX,#FFFFFF,#0078FF,left,,true,solid,yes
+MNQU6.CME@RITHMIC,29450.00,GEX,#FFFFFF,#E61E1E,left,,true,solid,yes
+MNQU6.CME@RITHMIC,28955.00,GEX,#FFFFFF,#E61E1E,left,,true,solid,yes
